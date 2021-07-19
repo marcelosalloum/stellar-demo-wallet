@@ -110,7 +110,7 @@ yarn build
 
 ## Release Notes
 
-### v1.2
+### [v1.2](https://github.com/stellar/stellar-demo-wallet/releases/tag/v1.2.0)
 
 - SEP-06 now supported
 - SEP-08 now supported
